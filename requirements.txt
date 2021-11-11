@@ -1,0 +1,7 @@
+aiogram~=2.16
+psycopg2
+aioredis
+aiohttp[speedups]
+alembic~=1.7.4
+environs~=9.3.4
+loguru~=0.5.3
